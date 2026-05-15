@@ -26,4 +26,4 @@ Md. Khairul Bashar Bhuiyan is an undergraduate research assistant at the Control
 - ResearchGate : https://www.researchgate.net/profile/Md-Bhuiyan-101?ev=hdr_xprf
 - LinkedIn : https://www.linkedin.com/in/khairul-bashar-399aab102
 
-![Curriculum Vitae](/my-git-projects/assets/cv.pdf)
+![Download CV](/my-git-projects/assets/cv.pdf)
