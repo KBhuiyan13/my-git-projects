@@ -8,7 +8,7 @@ description: >-
   MSc graduate in Computer Science with interests in
   machine learning, computer vision, and AI.
 
-baseurl: ""
+baseurl: "/my-git-projects"
 
 url: "https://kbhuiyan13.github.io"
 
@@ -24,7 +24,8 @@ header_pages:
   - cv.md
   - publications.md
 
-
+sass:
+  style: compressed
 
 # exclude:
 #   - .sass-cache/
