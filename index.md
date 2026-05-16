@@ -61,7 +61,7 @@ Google Scholar
 
 ResearchGate
 
-- Citations: 85
-- h-index: 2
-- Research interest Score: 65
+- Citations: 89
+- h-index: 3
+- Research interest Score: 67.4
 
