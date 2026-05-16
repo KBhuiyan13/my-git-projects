@@ -25,6 +25,7 @@ header_pages:
   - publications.md
   - projects.md
   - awards.md
+  - jobs.md
   - updates.md
 
 sass:

@@ -28,6 +28,7 @@ Md. Khairul Bashar Bhuiyan is an undergraduate research assistant at the Control
 - [Publications](/my-git-projects/publications/)
 - [Projects](/my-git-projects/projects/)
 - [Awards & Certifications](/my-git-projects/awards & certifications/)
+- [Job Experiences](/my-git-projects/job experiences/)
 - [Updates](/my-git-projects/updates/)
 
 ---
