@@ -23,6 +23,9 @@ header_pages:
   - about.md
   - cv.md
   - publications.md
+  - projects.md
+  - Awards & certifications.md
+  - updates.md
 
 sass:
   style: compressed
