@@ -20,10 +20,11 @@ Md. Khairul Bashar Bhuiyan is an undergraduate research assistant at the Control
 
 ## Contact
 
-- Email: kbashar707@gmail.com
-- GitHub: https://github.com/KBhuiyan13
-- Google Scholar: https://scholar.google.com/citations?user=j8KDfxUAAAAJ&hl=en
-- ResearchGate : https://www.researchgate.net/profile/Md-Bhuiyan-101?ev=hdr_xprf
-- LinkedIn : https://www.linkedin.com/in/khairul-bashar-399aab102
+- [Email](kbashar707@gmail.com)
+- [Phone](+8801841503830)
+- [GitHub](https://github.com/KBhuiyan13)
+- [Google Scholar](https://scholar.google.com/citations?user=j8KDfxUAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Md-Bhuiyan-101?ev=hdr_xprf)
+- [LinkedIn](https://www.linkedin.com/in/khairul-bashar-399aab102)
 
 [Download CV](/my-git-projects/assets/cv.pdf)
