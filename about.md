@@ -4,7 +4,10 @@ title: "About"
 permalink: /about/
 ---
 
-![Profile Photo](/my-git-projects/assets/profile.jpg)
+<p align="center">
+  <img src="/my-git-projects/assets/profile.jpg" width="220">
+</p>
+
 
 ## Short Bio
 
